@@ -59,14 +59,14 @@ Prime Directive Labs is developing **Sentinel Systems** — domain-specific AI-d
 
 <div align="center">
 
-| Repository | Description | Stack |
-|:-----------|:------------|:-----:|
-| [`primedir-prime`](https://github.com/Prime-Directive-Labs/primedir-prime) | 🧠 Central Intelligence Layer | TypeScript |
-| [`primedir-app`](https://github.com/Prime-Directive-Labs/primedir-app) | 🚀 Dashboard Application | Next.js 15 |
-| [`primedir-web`](https://github.com/Prime-Directive-Labs/primedir-web) | 🌐 Marketing Website | Next.js 15 |
-| [`primedir-contracts`](https://github.com/Prime-Directive-Labs/primedir-contracts) | 📜 Smart Contracts | Solidity |
-| [`primedir-api`](https://github.com/Prime-Directive-Labs/primedir-api) | ⚙️ Backend API | Django |
-| [`primedir-docs`](https://github.com/Prime-Directive-Labs/primedir-docs) | 📚 Documentation | Docusaurus |
+| Repository | Description |
+|:-----------|:------------|
+| [`primedir-prime`](https://github.com/Prime-Directive-Labs/primedir-prime) | 🧠 Central Intelligence Layer |
+| [`primedir-app`](https://github.com/Prime-Directive-Labs/primedir-app) | 🚀 Dashboard Application |
+| [`primedir-web`](https://github.com/Prime-Directive-Labs/primedir-web) | 🌐 Marketing Website |
+| [`primedir-contracts`](https://github.com/Prime-Directive-Labs/primedir-contracts) | 📜 Smart Contracts |
+| [`primedir-api`](https://github.com/Prime-Directive-Labs/primedir-api) | ⚙️ Backend API |
+| [`primedir-docs`](https://github.com/Prime-Directive-Labs/primedir-docs) | 📚 Documentation |
 
 </div>
 
