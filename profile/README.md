@@ -1,11 +1,6 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<img src="https://raw.githubusercontent.com/Prime-Directive-Labs/.github/main/assets/prime-directive-banner.png" alt="Prime Directive Labs" width="100%" />
-
-<br />
-<br />
-
 # 🛡️ PRIME DIRECTIVE LABS
 
 ### *Building The Sentinel of Humanity*
