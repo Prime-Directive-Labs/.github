@@ -86,24 +86,6 @@ Prime Directive Labs is developing **Sentinel Systems** — domain-specific AI-d
 </div>
 
 <br />
-
-## ⚡ Technology Stack
-
-<div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
-| **Frontend** | Next.js 15 · React 19 · TailwindCSS · Framer Motion |
-| **Web3** | Wagmi v2 · Viem · Reown (WalletConnect) · Base Network |
-| **Backend** | Django 5 · Django REST Framework · Celery · Redis |
-| **Contracts** | Solidity 0.8.24 · Foundry · OpenZeppelin |
-| **AI/ML** | LangChain · Anthropic Claude · Custom Agent Framework |
-| **Infrastructure** | Docker · Vercel · Railway · GitHub Actions |
-
-</div>
-
-<br />
-
 ## 🎯 Current Focus: Aeternos Protocol
 
 **Aeternos** is our first Sentinel System — the coordination layer that powers the entire ecosystem:
