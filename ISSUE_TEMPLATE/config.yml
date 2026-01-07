@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Security Vulnerability
+    url: mailto:security@primedir.ai
+    about: "For security issues, please email us directly. Do NOT create a public issue."
+  - name: 💬 Discord Community
+    url: https://discord.gg/primedir
+    about: "For questions and discussions, join our Discord community."
+  - name: 📚 Documentation
+    url: https://docs.primedir.ai
+    about: "Check our documentation for answers to common questions."
+
