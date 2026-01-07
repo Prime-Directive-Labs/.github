@@ -49,4 +49,3 @@ Reusable GitHub Actions workflows are in `workflow-templates/`. Repositories can
 *"We engineer civilization, not just code."*
 
 **Prime Directive Labs** 🛡️
-

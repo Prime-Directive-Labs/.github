@@ -127,4 +127,3 @@ We will not pursue legal action against researchers who:
 *"We engineer civilization, not just code."*
 
 **Prime Directive Labs** 🛡️
-

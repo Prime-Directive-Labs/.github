@@ -35,7 +35,7 @@ We engineer the foundational systems for autonomous, self-governing civilization
 Prime Directive Labs is developing **Sentinel Systems** — domain-specific AI-driven coordination networks that operate autonomously to address humanity's most critical infrastructure needs. Our approach combines:
 
 - **🔗 Decentralized Governance** — Power distributed, not concentrated
-- **⏳ Longevity Engineering** — Systems designed for centuries, not quarters  
+- **⏳ Longevity Engineering** — Systems designed for centuries, not quarters
 - **🤖 Autonomous Coordination** — Self-governing, minimal human intervention
 - **🌍 Universal Accessibility** — Open to all, barriers minimized
 
@@ -162,7 +162,7 @@ Prime Directive Labs is developing **Sentinel Systems** — domain-specific AI-d
 
 ### Deployed on Base Network
 
-All smart contracts are deployed and verified on **Base Sepolia** (testnet) with mainnet deployment planned for Q1 2025.
+All smart contracts are deployed and verified on **Base Sepolia** (testnet) with mainnet deployment planned for Q1 2026.
 
 <br />
 
@@ -223,6 +223,6 @@ Security is paramount. If you discover a vulnerability, please follow our [Secur
 
 <br />
 
-<sub>© 2024 Prime Directive Labs. All rights reserved.</sub>
+<sub>© 2026 Prime Directive Labs. All rights reserved.</sub>
 
 </div>

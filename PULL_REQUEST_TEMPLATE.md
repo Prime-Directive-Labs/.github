@@ -39,9 +39,9 @@ Closes #
 
 <!-- How can reviewers test these changes? -->
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## 📝 Additional Notes
 
@@ -50,4 +50,3 @@ Closes #
 ---
 
 *"We engineer civilization, not just code."* 🛡️
-
